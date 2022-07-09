@@ -39,6 +39,7 @@
       "Smartfridge",
       "Strencher",
       "Swishilicous",
+      "Sako",
       "Tasky",
       "Thomiz",
       "Tropical",
@@ -103,6 +104,7 @@
       "F#",
       "Go",
       "HTML",
+      "Haskell",
       "HolyC",
       "Java",
       "JavaScript",
@@ -146,6 +148,10 @@
       "%p sees %m as a massive improvement over %m, and %p goes crazy.",
       "%p starts an anonymous twitter account to harass %m.",
       "%p steals code from %m. %p goes to war."
+      "%p bombs %p in order to legally steal code from %m.",
+      "%p calls %m shit causing %p to rewrite it in %l", 
+      "%p 's cat accidentally includes malware in %m causing %p to freak out",
+      "%p has banned sako from using %m because he doesnt like him",
     ],
     "replacers": {
       "%b": "branches",
@@ -231,6 +237,8 @@
       "the build server died",
       "unexpected combustion",
       "unity broke"
+      "unity is processing code (2 minutes and 30 seconds)",
+      "A stop job is running for PackageKit (1min30s / 5s)",
     ],
     "phrases": [
       "Jimmy had to delay the release once more because %dr. %p was not pleased."
